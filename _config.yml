@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen Liang, PhD"
-  avatar           : "assets/images/avatar_ChenLiang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar_ChenLiang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Assistant Professor at Arnold School of Public Health, University of South Carolina. "
   location         : "Columbia, SC, USA"
   email            : 

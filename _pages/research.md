@@ -2,6 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
+author_profile: false
 ---
 
 # H1 heading
