@@ -302,3 +302,7 @@ defaults:
       layout: single
       author_profile: true
 
+# customize 
+header:
+    iamge: /assets/images/header_homepage.jpg
+
