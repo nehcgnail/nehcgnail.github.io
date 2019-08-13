@@ -304,5 +304,5 @@ defaults:
 
 # customize 
 header:
-    iamge: /assets/images/header_homepage.jpg
+    image: /assets/images/header_homepage.jpg
 
