@@ -110,7 +110,7 @@ author:
   name             : "Chen Liang, PhD"
   avatar           : "/assets/images/avatar_ChenLiang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor <br/>Department of Health Services Policy and Management <br/>Arnold School of Public Health <br/>University of South Carolina "
-  location         : "915 Greene Street <br/>Columbia, SC 29201 <br/>USA"
+  location         : "915 Greene Street <br/>    Columbia, SC 29201 <br/>    USA"
   email            : 
   links:
     - label: "Email"
