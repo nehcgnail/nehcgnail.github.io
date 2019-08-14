@@ -6,7 +6,7 @@ header:
   image: /assets/images/header_homepage_green.jpg
 ---
 
-!This site is under construction. Listed information may not be accurate and up-to-date.{: .notice--info}
+!This site is under construction. Listed information may not be accurate and up-to-date.{: .text-right}
 
 
 ### About
