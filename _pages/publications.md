@@ -17,7 +17,7 @@ author_profile: false
 - Lin, R., Liang, C., Duan, R., Chen, Y., & Tao, C. (2018). Visualized Emotion Ontology: a model for representing visual cues of emotions. BMC medical informatics and decision making, 18(2), 64. [full text](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0634-6)
 - Liang, C., & Gong, Y. (2017). Predicting Harm Scores from Patient Safety Event Reports. In MedInfo (pp. 1075-1079). [full text](http://ebooks.iospress.nl/publication/48320)
 - Liang, C., & Gong, Y. (2017). Automated Classification of Multi-Labeled Patient Safety Reports: A Shift from Quantity to Quality Measure. In MedInfo (pp. 1070-1074). [full text](http://ebooks.iospress.nl/Extern/EnterMedLine.aspx?ISSN=0926-9630&Volume=245&SPage=1070)
-- Liang, C., & Gong, Y. (2016). Knowledge representation in patient safety reporting: an ontological approach. Journal of Data and Information Science, 1(2), 75-91. [https://content.sciendo.com/view/journals/jdis/1/2/article-p75.xml]
+- Liang, C., & Gong, Y. (2016). Knowledge representation in patient safety reporting: an ontological approach. Journal of Data and Information Science, 1(2), 75-91. [full text](https://content.sciendo.com/view/journals/jdis/1/2/article-p75.xml)
 - Liang, C., Sun, J., & Tao, C. (2016). Semantic Web Ontology and Data Integration: a Case Study in Aiding Psychiatric Drug Repurposing. AMIA Summits on Translational Science Proceedings, 2016, 132. [full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001753/)
 - Liang, C., & Gong, Y. (2015, August). On Building an Ontological Knowledge Base for Managing Patient Safety Events. In MedInfo (pp. 202-206). [full text](http://ebooks.iospress.nl/publication/40197)
 
