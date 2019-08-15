@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+permalink: /home/
 author_profile: true
 header: 
   image: /assets/images/header_homepage_green.jpg
