@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: false
+header:
+  image: /assest/images/header_publications.jpg
+  caption: "Thomas Cooper Library"
 ---
 
 ### A Full List of Publications on

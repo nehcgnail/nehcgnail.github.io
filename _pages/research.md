@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: false
+header:
+  image: /assest/images/header_research.jpg
+  caption: ""
 ---
 
 ## Current Projects
@@ -10,6 +13,8 @@ author_profile: false
 ### Leveraging Informatics to Improve Mental Health Services
 This project aims to (1) develop innovative data science methods and tools tailored for data generated in mental health services; (2) enhance prevention and intervention of mental health problems for vulnerable population.<br/>
 Funding: Startup Grant
+
+---
 
 ## Previous Projects
 
