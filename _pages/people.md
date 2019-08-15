@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: false
 header:
-  image: /assests/images/header_people.jpg
+  image: /assets/images/header_people.jpg
 ---
 
 ![image-left](/assets/images/avatar_ChenLiang.jpg){: .align-left}{:width="250px"}

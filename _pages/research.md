@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: false
 header:
-  image: /assests/images/header_research.jpg
+  image: /assets/images/header_research.jpg
 ---
 
 ## Current Projects
