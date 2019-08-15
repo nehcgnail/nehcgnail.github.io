@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+permalink: /home/
 author_profile: true
 ---
 
