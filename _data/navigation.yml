@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: www.clianglab.com
+    url: /home/
   - title: "Research"
     url: /research/
   - title: "Publications"
