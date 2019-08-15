@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: false
 header:
   image: /assets/images/header_publications.jpg
-
-  caption: "Thomas Cooper Library"
+  caption: "The Horseshoe"
 ---
 
 ### A Full List of Publications on
