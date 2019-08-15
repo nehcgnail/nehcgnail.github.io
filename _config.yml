@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/avatar_ChenLiang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor <br/>Department of Health Services Policy and Management <br/>Arnold School of Public Health <br/>University of South Carolina "
   location         : "915 Greene Street <br/>&nbsp; &nbsp; &nbsp; Columbia, SC 29201 <br/>&nbsp; &nbsp; &nbsp; USA"
-  email            : 
+  email            : &#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
