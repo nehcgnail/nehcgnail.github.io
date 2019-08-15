@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: false
 header:
   image: /assest/images/header_research.jpg
-  caption: ""
 ---
 
 ## Current Projects
