@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /home/
+permalink: /home_test/
 author_profile: true
 header:
   image: /assets/images/header_home.jpg
