@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 header:
-  image: /assest/images/header_publications.jpg
+  image: /assests/images/header_publications.jpg
   caption: "Thomas Cooper Library"
 ---
 

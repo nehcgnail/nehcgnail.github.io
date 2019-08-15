@@ -4,7 +4,7 @@ title: "Prospective Students"
 permalink: /prospective_students/
 author_profile: false
 header:
-  image: /assest/images/header_prospective_students.jpg
+  image: /assests/images/header_prospective_students.jpg
   caption: "City of Columbia skyline"
 ---
 

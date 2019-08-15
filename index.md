@@ -4,7 +4,7 @@ title: ""
 permalink: /home/
 author_profile: true
 header: 
-  image: /assets/images/header_homepage_green.jpg
+  image: /assets/images/header_homepage.jpg
 ---
 
 **This site is under construction. <br/>Listed information may not be accurate and up-to-date.**
