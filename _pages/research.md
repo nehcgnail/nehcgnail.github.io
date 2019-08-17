@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: false
 header:
   image: /assets/images/header_research.jpg
+  caption: "McKissick Museum"
 ---
 
 ## Current Projects

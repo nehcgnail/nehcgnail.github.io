@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 header:
   image: /assets/images/header_publications.jpg
-  caption: "The Horseshoe"
+  caption: "Maxcy Monument"
 ---
 
 ### A Full List of Publications on

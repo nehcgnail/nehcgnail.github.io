@@ -5,6 +5,7 @@ permalink: /people/
 author_profile: false
 header:
   image: /assets/images/header_people.jpg
+  caption: "The Horseshoe"
 ---
 
 ![image-left](/assets/images/avatar_ChenLiang.jpg){: .align-left}{:width="250px"}
