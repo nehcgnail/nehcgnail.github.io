@@ -10,9 +10,9 @@ header:
 
 ### A Full List of Publications on
 - [Google Scholar profile](https://scholar.google.com/citations?user=VMcFpJ4AAAAJ&hl=en)<br/>
-- [ResearchGate](https://www.researchgate.net/profile/Chen_Liang32)<br/>
 - [Bibliography from NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1HeGaoiqXwwwpf/bibliography/55040917/public/?sort=date&direction=ascending)<br/>
 - [ORCID:0000-0002-9803-9880](https://orcid.org/0000-0002-9803-9880)<br/>
+- [ResearchGate](https://www.researchgate.net/profile/Chen_Liang32)<br/>
 
 ### Selected Publications:
 - Liang, C., Miao, Q., Kang, H., Vogelsmeier, A., Hilmas, T., Wang, J., & Gong. Y. (in press). Leveraging patient safety research: Fifteen-year effort since “To Err Is Human”. In MedInfo
