@@ -8,9 +8,9 @@ header:
   caption: "The Horseshoe"
 ---
 
-![image-left](/assets/images/avatar_ChenLiang.jpg){: .align-left}{:width="250px"}
+![image-left](/assets/images/avatar_ChenLiang.jpg){: .align-left}{:width="230px"}
 **Chen Liang, PhD**<br/>
-<span style="font-size:12pt"> Assistant Professor at [Department of Health Services Policy and Management](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/health_services_policy_and_management/index.php), [Arnold School of Public Health](https://www.sc.edu/study/colleges_schools/public_health/index.php), [University of South Carolina](https://sc.edu).</span>
+<span style="font-size:12pt"> Assistant Professor at [Department of Health Services Policy & Management](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/health_services_policy_and_management/index.php), [Arnold School of Public Health](https://www.sc.edu/study/colleges_schools/public_health/index.php), [University of South Carolina](https://sc.edu).</span>
 - <span style="font-size:12pt"> PhD in Biomedical Informatics, [University of Texas School of Biomedical Informatics](https://sbmi.uth.edu) </span><br/>
 - <span style="font-size:12pt"> MS in Psychology, [Soochow University](http://eng.suda.edu.cn) </span><br/>
 - <span style="font-size:12pt"> BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn). </span>
