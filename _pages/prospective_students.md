@@ -11,7 +11,7 @@ header:
 **We are accepting new students.**
 {: .notice--info}
 
-### Openings
+## Openings
 
 Position: Graduate Research Assistant<br/>
 
@@ -42,7 +42,7 @@ Application procedures:
 - Include "RA application - your name" in the Subject.
 
 ---
-### Resources for Prospective Students
+## Resources for Prospective Students
 
-**Research Environment**
+**Research Environment**<br/>
 Arnold School of Public Health is home to $30.7 million in funding from external sponsors as of 2018 fiscal year. Students are exposed to a variety of research activies including projects mentored by faculty, research seminars, and conference presentation. Spondored by [Office of the Vice President for Research](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/) and companies in partnership with Arnold School, a number of research grants, scholarships, and interships ara made available to our students. Find more information from [the research webpage at Arnold School](https://www.sc.edu/study/colleges_schools/public_health/research/index.php). 
