@@ -8,9 +8,10 @@ header:
   caption: "City of Columbia skyline"
 ---
 
-### Openings
 **We are accepting new students.**
 {: .notice--info}
+
+### Openings
 
 Position: Graduate Research Assistant<br/>
 
@@ -39,8 +40,9 @@ Compensation & Benefits: Commensurate with qualification and experience.
 Application procedures:
 - Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to &#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;.
 - Include "RA application - your name" in the Subject.
+
 ---
 ### Resources for Prospective Students
 
 **Research Environment**
-Arnold School of Public Health is home to $30.7 million in funding from external sponsors as of 2018 fiscal year. Students are exposed to a variety of research activies including projects mentored by faculty, research seminars, and conference presentation. Spondored by (Office of the Vice President for Research)[https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/] and companies in partnership with Arnold School, a number of research grants, scholarships, and interships ara made available to our students. Find more information from (the research webpage at Arnold School)[https://www.sc.edu/study/colleges_schools/public_health/research/index.php]. 
+Arnold School of Public Health is home to $30.7 million in funding from external sponsors as of 2018 fiscal year. Students are exposed to a variety of research activies including projects mentored by faculty, research seminars, and conference presentation. Spondored by [Office of the Vice President for Research](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/) and companies in partnership with Arnold School, a number of research grants, scholarships, and interships ara made available to our students. Find more information from [the research webpage at Arnold School](https://www.sc.edu/study/colleges_schools/public_health/research/index.php). 
