@@ -11,11 +11,10 @@ header:
 **We are accepting new students.**
 {: .notice--info}
 
-Position: Graduate Research Assistant
-Post date: August 2019
-Due date: Open until filled
-Job summary: The RA will provide research support to 1-2 health informatics projects related to patient safety, health information technology, mental health, etc. Depending on the background and performance, the RA may be granted to lead a subproject. General duties include literature review, study design, data analysis, manuscript preparation, presentation at academic conferences, etc. This position provides extensive opportunities of (1) research mentoring, (2) academic publications, (3) building connections with faculty and peer students from various disciplines. 
-The RA will receive extensive mentoring. The RA is ex
+Position: Graduate Research Assistant<br/>
+Post date: August 2019<br/>
+Due date: Open until filled<br/>
+Job summary: The RA will provide research support to 1-2 health informatics projects related to patient safety, health information technology, mental health, etc. Depending on the background and performance, the RA may be granted to lead a subproject. General duties include literature review, study design, data analysis, manuscript preparation, presentation at academic conferences, etc. This position provides extensive opportunities of (1) research mentoring, (2) academic publications, (3) building connections with faculty and peer students from various disciplines.<br/>
 Basic qualifications:
 - Strong motivation
 - Enrolled in or admitted to a Master's or Doctoral graduate program at UofSC. 
