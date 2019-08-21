@@ -30,7 +30,7 @@ Basic qualifications:
 - Good academic writing and oral communication in English.
 
 Preferred qualifications: 
-- PhD students or Master's students with a plan of academic path.
+- PhD students; or Master's students with a plan of persuing a doctoral degree.
 - Experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Experience in data analysis (e.g., text analysis) and machine learning.
 - Research training and experience (e.g., research assistantship, unpublished work, publications).
