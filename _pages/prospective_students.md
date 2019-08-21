@@ -26,7 +26,7 @@ Basic qualifications:
 - Basic understanding in health sciences, behavioral sciences, and social sciences.
 - Good academic writing and oral communication in English.
 
-<br/>Preferred qualifications: 
+Preferred qualifications: 
 - PhD students or Master's students with a plan of academic path.
 - Experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Experience in data analysis (e.g., text analysis), machine learning.
