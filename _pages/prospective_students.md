@@ -26,7 +26,7 @@ Preferred qualifications:
 - Experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Experience in data analysis (e.g., text analysis), machine learning.
 - Research training and experience (e.g., research assistantship, unpublished work, publications).<br/>
-Compensation & Benefits: Commensurate with qualification and experience
+Compensation & Benefits: Commensurate with qualification and experience<br/>
 Application procedures:
 - Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to &#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;.
 - Include "RA application - your name" in the Subject.<br/>
