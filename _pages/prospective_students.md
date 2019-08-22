@@ -17,7 +17,7 @@ Position: Graduate Research Assistant<br/>
 
 Due: Open until filled<br/>
 
-Job summary: This position will provide research support to health informatics projects focusing on patient safety, health information technology, mental health, etc. The position offers opportunities for health informatics study design, behavioral study design, health data analysis, academic writing/publicstion/presentation, cross-disciplinary collaboration, and developing an independent area of research.<br/>
+Job summary: This position will provide research support to health informatics projects focusing on patient safety, health information technology, mental health, etc. The position offers opportunities for health informatics study design, behavioral study design, health data analysis, academic writing/publicstion/presentation, cross-disciplinary collaborations, and independent studies.<br/>
 
 Basic qualifications:
 - Strong motivation.
@@ -29,8 +29,8 @@ Basic qualifications:
 Preferred qualifications: 
 - Working experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Working experience in data analysis (e.g., text analysis), machine learning, and statistical methods.
-- Working experience in public health, medicine, and other fields of health sciences.
-- Evidence of research training and experience (e.g., research assistantship, publications, etc.).
+- Working experience in public health, medicine, and other fields in health sciences.
+- Evidence of research training and experience (e.g., research assistantships, publications, etc.).
 
 Compensation & Benefits: Compensation is commensurate with qualification and experience. The position offers office space, computers, tuition benefits, and other benefits in accordance with regulations of the University and Arnold School of Public Health.
 
