@@ -29,12 +29,13 @@ Basic qualifications:
 Preferred qualifications: 
 - Working experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Working experience in data analysis (e.g., text analysis), machine learning, and statistical methods.
-- Evidence of research training and experience (e.g., research assistantship, unpublished work, publications, etc.).
+- Working experience in public health, medicine, and other fields of health sciences.
+- Evidence of research training and experience (e.g., research assistantship, publications, etc.).
 
 Compensation & Benefits: Compensation is commensurate with qualification and experience. The position offers office space, computers, tuition benefits, and other benefits in accordance with regulations of the University and Arnold School of Public Health.
 
 Application procedures:
-- Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to &#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;.
+- Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;).
 - Include "RA application - your name" in the Subject.
 
 ---
