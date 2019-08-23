@@ -17,7 +17,7 @@ Position: Graduate Research Assistant<br/>
 
 Due: Open until filled<br/>
 
-Job summary: This position will provide research support to health informatics projects focusing on patient safety, health information technology, mental health, etc. The position offers opportunities for health informatics study design, behavioral study design, health data analysis, academic writing/publicstion/presentation, cross-disciplinary collaborations, and independent studies.<br/>
+Job summary: This position will provide research support to health informatics projects focusing on patient safety, health information technology, mental health, etc. The position offers opportunities for health informatics study design, behavioral study design, health data analysis, academic writing/publication/presentation, cross-disciplinary collaborations, and independent studies.<br/>
 
 Basic qualifications:
 - Strong motivation.
