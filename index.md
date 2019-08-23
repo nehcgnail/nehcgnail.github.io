@@ -15,5 +15,5 @@ Welcome to the laboratory. We are located in Arnold School of Public Health, Uni
 
 ### News
 - **[Conference]** Our paper **Leveraging patient safety research: Fifteen-year effort since “To Err Is Human”** is accepted by MedInfo 2019 at Lyon, France. Dr Yang Gong is invited for a podium presentation on August 27, 2019. <br/>
-- **[Lab]** On August 19, 2019, we settled in the new home at Arnold School of Public Health, UofSC. 
+- **[Lab]** On August 19, 2019, we settled in the new home at Arnold School of Public Health, UofSC. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2019/hspm_faculty_chen_liang.php). 
 {: .notice--info}
