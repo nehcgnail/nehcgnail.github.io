@@ -15,7 +15,7 @@ header:
 - [ResearchGate](https://www.researchgate.net/profile/Chen_Liang32)<br/>
 
 ### Selected Publications:
-- Liang, C., Miao, Q., Kang, H., Vogelsmeier, A., Hilmas, T., Wang, J., & Gong. Y. (in press). Leveraging patient safety research: Fifteen-year effort since “To Err Is Human”. In MedInfo
+- Liang, C., Miao, Q., Kang, H., Vogelsmeier, A., Hilmas, T., Wang, J., & Gong. Y. (in press). Leveraging Patient Safety Research: Efforts Made Fifteen Years Since To Err Is Human. In MedInfo
 - Amith, M., Manion, F., Liang, C., Harris, M., Wang, D., He, Y., & Tao, C. (2019). Architecture and usability of OntoKeeper, an ontology evaluation tool. BMC Medical Informatics and Decision Making, 19(4), 1-18. [full text](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0859-z)
 - Hong, Y. A., Liang, C., Radcliff, T. A., Wigfall, L. T., & Street, R. L. (2019). What Do Patients Say About Doctors Online? A Systematic Review of Studies on Patient Online Reviews. Journal of medical Internet research, 21(4), e12521. [full text](https://www.jmir.org/2019/4/e12521/)
 - Lin, R., Liang, C., Duan, R., Chen, Y., & Tao, C. (2018). Visualized Emotion Ontology: a model for representing visual cues of emotions. BMC medical informatics and decision making, 18(2), 64. [full text](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-018-0634-6)
