@@ -7,8 +7,7 @@ header:
   caption: "The Horseshoe"
 ---
 
-**This site is under construction. <br/>Listed information may not be accurate and up-to-date.**
-{: .notice--warning}
+*"Stand on the shoulders of giants."*
 
 ### About
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address practical questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and tools that lead to a better understanding of electronic health data.
