@@ -21,7 +21,7 @@ Job summary: This position will provide research support to health informatics p
 
 Basic qualifications:
 - Strong motivation.
-- Master's or Doctoral graduate students in a good academic standing. 
+- Master's or Doctoral graduate students in good academic standing. 
 - Working knowledge in health/biomedical informatics, computer science, information science, statistics, or other quantitative fields.
 - Basic understanding in health sciences, behavioral sciences, or social sciences.
 - Good academic writing and oral communication in English.
