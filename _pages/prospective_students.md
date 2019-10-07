@@ -30,7 +30,7 @@ Preferred qualifications:
 - Working experience in at least one programing language (e.g., Python, R, Java, etc.).
 - Working experience in data analysis (e.g., text analysis), machine learning, and statistical methods.
 - Working experience in public health, medicine, and other fields in health sciences.
-- Evidence of research training and experience (e.g., research assistantships, publications, etc.).
+- Evidenced research experience (e.g., research assistantships, publications, etc.).
 
 Compensation & Benefits: Compensation is commensurate with qualification and experience. The position offers office space, computers, tuition benefits, and other benefits in accordance with regulations at the University and Arnold School of Public Health.
 
