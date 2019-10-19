@@ -14,6 +14,6 @@ header:
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address practical questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and tools that lead to a better understanding of electronic health data.
 
 ### News
-- **[Conference]** Our paper [**Leveraging Patient Safety Research: Efforts Made Fifteen Years Since “To Err Is Human”**](http://ebooks.iospress.nl/publication/52136) is accepted by MedInfo 2019 at Lyon, France. This work is endorsed by [AHRQ Patient Safety Network (PSNet)](https://psnet.ahrq.gov/issue/leveraging-patient-safety-research-efforts-made-fifteen-years-err-human).<br/>
+- **[Conference]** Our paper [**Leveraging Patient Safety Research: Efforts Made Fifteen Years Since “To Err Is Human”**](https://www.ncbi.nlm.nih.gov/pubmed/31438071) is accepted by MedInfo 2019 at Lyon, France. This work is endorsed by [AHRQ Patient Safety Network (PSNet)](https://psnet.ahrq.gov/issue/leveraging-patient-safety-research-efforts-made-fifteen-years-err-human).<br/>
 - **[Lab]** On August 19, 2019, we settled in the new home at Arnold School of Public Health, UofSC. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2019/hspm_faculty_chen_liang.php). 
 {: .notice--info}
