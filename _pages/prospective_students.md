@@ -15,8 +15,6 @@ header:
 
 Position: Graduate Research Assistant (expired)<br/>
 
-Due: Open until filled<br/>
-
 Job summary: This position is supported by funds from Dr. Chen Liang. The GRA will provide research support to projects on medical informatics and public health informatics. The GRA will assist in a wide range of research activities including study design, implementation, data analysis, scientific writing/publication/presentation. As part of Dr. Liang’s team, the GRA will work with faculty and students from the University of South Carolina and other institutes in collaboration. The GRA is required to attend lab meetings and expected to report research progress on a regular basis. This position requires an individual who has strong work and research ethics, is self-motivated and accountable, and can work both independently and as part of a team.<br/>
 
 Basic qualifications:
@@ -44,7 +42,7 @@ Application procedures:
 ### Research Environment<br/>
 Arnold School of Public Health is home to $38.2 million in funding from external sponsors, including $32.7 million of research funding of which $18 million is from the National Institutes of Health as of 2019 fiscal year. Students are exposed to a variety of research activities including mentored projects, cross-disciplinary collaborations, research seminars, and conference presentations. Arnold School provides [travel support](https://www.sc.edu/study/colleges_schools/public_health/internal/current_students/student_travel_funding/index.php) for student research. Students are also encouraged to applying for [internal funding and awards](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/) for their research projects. Arnold School 
 
-### Students Funding Opportunities<br/>
+### Funding Opportunities for Students<br/>
 *School-level support -* At Arnold School, the scholarship is made available for outstanding students admitted to the PhD program. In addition, there are a number of funded graduate assistantships, fellowships, and internships available on your way to pursuing a degree. [Find more information](https://www.sc.edu/study/colleges_schools/public_health/apply/graduate_applicants/finanancial_information/index.php).<br/>
 *Presidential Felloship -* Presidential Fellowship is available for talented doctoral and MFA students. The stipend is $32,000 over four years for doctoral fellows. [Find more information](https://www.sc.edu/study/colleges_schools/graduate_school/opportunities_support/scholarly_initiatives/presidential-fellowship/index.php).<br/>
 *University-level support -* At the University of South Carolina, scholarships are made available to our students. [Find more informatiuon](https://sc.edu/about/offices_and_divisions/financial_aid/scholarships/index.php).<br/>
