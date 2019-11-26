@@ -16,9 +16,9 @@ header:
 <span style="font-size:12pt"> BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn) </span>
 
 ---
-## Graduate Students ##
+## Graduate Students
 **TBA**
 
 ---
-## Visiting Students ##
+## Visiting Students
 **TBA**
