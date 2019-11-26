@@ -8,29 +8,29 @@ header:
   caption: "City of Columbia skyline"
 ---
 
-**We are accepting new students.**
+**Presently, we do not have funded Research Assistantships for new students.**
 {: .notice--info}
 
 ## Openings
 
-Position: Graduate Research Assistant<br/>
+Position: Graduate Research Assistant<br/> (expired)
 
 Due: Open until filled<br/>
 
-Job summary: This position will provide research support to health informatics projects focusing on patient safety, health information technology, mental health, etc. The position offers opportunities for health informatics study design, behavioral study design, health data analysis, academic writing/publication/presentation, cross-disciplinary collaborations, and independent studies.<br/>
+Job summary: This position is supported by funds from Dr. Chen Liang. The GRA will provide research support to projects on medical informatics and public health informatics. The GRA will assist in a wide range of research activities including study design, implementation, data analysis, scientific writing/publication/presentation. As part of Dr. Liang’s team, the GRA will work with faculty and students from the University of South Carolina and other institutes in collaboration. The GRA is required to attend lab meetings and expected to report research progress on a regular basis. This position requires an individual who has strong work and research ethics, is self-motivated and accountable, and can work both independently and as part of a team.<br/>
 
 Basic qualifications:
 - Strong motivation.
 - Master's or Doctoral graduate students in good academic standing. 
-- Working knowledge in health/biomedical informatics, computer science, information science, statistics, or other quantitative fields.
-- Basic understanding in health sciences, behavioral sciences, or social sciences.
+- Working knowledge in any of these fields: health/biomedical informatics, computer science, information science, statistics, or other quantitative domains.
+- Basic understanding in any of these fields: health sciences, behavioral sciences, or social sciences.
 - Good academic writing and oral communication in English.
 
 Preferred qualifications: 
-- Working experience in at least one programing language (e.g., Python, R, Java, etc.).
-- Working experience in data analysis (e.g., text analysis), machine learning, and statistical methods.
-- Working experience in public health, medicine, and other fields in health sciences.
-- Evidenced research experience (e.g., research assistantships, publications, etc.).
+- Experience in public health, medicine, and other fields in health sciences.
+- Experience in at least one programing language (e.g., Python, R, Java, etc.).
+- Experience in any of these methods: health data analysis, machine learning, natural language processing, information retrieval, knowledge extraction, semantic web ontology, and statistical methods.
+- Evidenced research experience (e.g., previous research assistantships, publications, etc.).
 
 Compensation & Benefits: Compensation is commensurate with qualification and experience. The position offers office space, computers, tuition benefits, and other benefits in accordance with regulations at the University and Arnold School of Public Health.
 
@@ -41,5 +41,10 @@ Application procedures:
 ---
 ## Resources for Prospective Students
 
-**Research Environment**<br/>
-Arnold School of Public Health is home to $30.7 million in funding from external sponsors as of 2018 fiscal year. Students are exposed to a variety of research activities including mentored projects, cross-disciplinary collaborations, research seminars, and conference presentations. Sponsored by [Office of the Vice President for Research](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/) and companies in partnership with Arnold School, numerous research grants, scholarships, travel grants, and internships are made available to our students. Find more information from [the research webpage at Arnold School](https://www.sc.edu/study/colleges_schools/public_health/research/index.php). 
+###Research Environment###<br/>
+Arnold School of Public Health is home to $38.2 million in funding from external sponsors, including $32.7 million of research funding of which $18 million is from National Institutes of Health as of 2019 fiscal year. Students are exposed to a variety of research activities including mentored projects, cross-disciplinary collaborations, research seminars, and conference presentations. Arnold School provides [travel support](https://www.sc.edu/study/colleges_schools/public_health/internal/current_students/student_travel_funding/index.php) for student research. Students are also encouraged to applying for [internal funding and awards](https://sc.edu/about/offices_and_divisions/research/internal_funding_awards/students/) for their research projects. Arnold School 
+
+##Students Funding Opportunities##br/>
+**School-level support - **At Arnold School, a scholarship is made available for outstanding students admitted to the PhD program. In addition, there are a number of funded Graduate Assistantships, fellowships, and interships available on your way to pursuing a degree. Find more information [here](https://www.sc.edu/study/colleges_schools/public_health/apply/graduate_applicants/finanancial_information/index.php).
+** Presidential Felloship - **Presidential Fellowship is available for talented doctoral and MFA students. The stipend is $32,000 over four years for doctoral fellows. Find more information [here](https://www.sc.edu/study/colleges_schools/graduate_school/opportunities_support/scholarly_initiatives/presidential-fellowship/index.php).
+** University-level support - **At University of South Carolina, scholarships are made availavle to our students. Find more informatiuon [here](https://sc.edu/about/offices_and_divisions/financial_aid/scholarships/index.php).
