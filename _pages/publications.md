@@ -15,6 +15,7 @@ header:
 - [ResearchGate](https://www.researchgate.net/profile/Chen_Liang32)<br/>
 
 ### Selected Publications:
+- Liang, C., Zhou, S., Yao, B., Hood, D., & Gong, Y. (2019). Toward systems-centered analysis of patient safety events: improving root cause analysis by optimized incident classification and information presentation. International Journal of Medical Informatics, 104054. [full text](https://www.sciencedirect.com/science/article/pii/S1386505619308792)
 - Liang, C., Miao, Q., Kang, H., Vogelsmeier, A., Hilmas, T., Wang, J., & Gong, Y. (2019). Leveraging Patient Safety Research: Efforts Made Fifteen Years Since To Err Is Human. Studies in health technology and informatics, 264, 983-987. [full text](http://ebooks.iospress.nl/publication/52136)
 - Amith, M., Manion, F., Liang, C., Harris, M., Wang, D., He, Y., & Tao, C. (2019). Architecture and usability of OntoKeeper, an ontology evaluation tool. BMC Medical Informatics and Decision Making, 19(4), 1-18. [full text](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0859-z)
 - Hong, Y. A., Liang, C., Radcliff, T. A., Wigfall, L. T., & Street, R. L. (2019). What Do Patients Say About Doctors Online? A Systematic Review of Studies on Patient Online Reviews. Journal of medical Internet research, 21(4), e12521. [full text](https://www.jmir.org/2019/4/e12521/)
