@@ -15,7 +15,9 @@ Medical errors are the third leading causes of death in the US. One of the key s
 We found that the narrative data of reports (e.g., event description in free text) carries valuable information (e.g., interconnected procedures, shared responsibilities, contributing factors, etc.) that may disclose vulnerabilities of the health system. However, the traditional RCA is time consuming. Inspired by psycholinguistic studies, semantic web ontology, and machine learning, we developed innovative methods to facilitate knowledge discovery from the reports and clinical workflow of RCA. <br/>
 Funding: NIH/AHRQ and the University of Texas System (PI: [Yang Gong, MD, PhD](https://sbmi.uth.edu/faculty-and-staff/yang-gong.htm))
 ### Medication Safety
+TBA
 
+---
 
 ## Leveraging Informatics to Improve Mental Health Services
 This project aims to (1) develop innovative data science methods and tools tailored for data generated in mental health services; (2) enhance prevention and intervention of mental health problems for vulnerable population.<br/>
