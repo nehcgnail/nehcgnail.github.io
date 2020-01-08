@@ -17,7 +17,9 @@ header:
 
 ---
 ## Graduate Students
-**TBA**
+![image-left](/assets/images/avatar.png){: .align-left}{:width="210px"}
+**Tianchu Lyu**
+TBA
 
 ---
 ## Visiting Students
