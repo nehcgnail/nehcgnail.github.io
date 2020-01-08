@@ -19,7 +19,10 @@ header:
 ## Graduate Students
 ![image-left](/assets/images/avatar.png){: .align-left}{:width="210px"}
 **Tianchu Lyu**
-TBA
+TBA<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 ## Visiting Students
