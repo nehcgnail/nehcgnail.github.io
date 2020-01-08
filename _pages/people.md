@@ -18,7 +18,7 @@ header:
 ---
 ## Graduate Students
 ![image-left](/assets/images/avatar.png){: .align-left}{:width="210px"}
-**Tianchu Lyu**
+**Tianchu Lyu**<br/>
 TBA<br/>
 <br/>
 <br/>
