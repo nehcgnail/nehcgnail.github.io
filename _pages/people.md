@@ -16,7 +16,7 @@ header:
 <span style="font-size:12pt"> BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn) </span>
 
 ---
-## Graduate Students
+## Graduate Research Assistants
 ![image-left](/assets/images/avatar.png){: .align-left}{:width="210px"}
 **Tianchu Lyu**<br/>
 Tianchu is a PhD student at Arnold School of Public Health. <br/>
