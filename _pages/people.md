@@ -17,7 +17,7 @@ header:
 
 ---
 ## Graduate Research Assistants
-![image-left](/assets/images/avatar.png){: .align-left}{:width="210px"}
+![image-left](/assets/images/avatar_TianchuLyu.jpeg){: .align-left}{:width="210px"}
 **Tianchu Lyu**<br/>
 Tianchu is a PhD student at Arnold School of Public Health. <br/>
 TBA<br/>
