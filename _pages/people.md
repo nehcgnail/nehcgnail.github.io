@@ -13,9 +13,9 @@ header:
 Assistant Professor at [Department of Health Services Policy & Management](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/health_services_policy_and_management/index.php), [Arnold School of Public Health](https://www.sc.edu/study/colleges_schools/public_health/index.php), [University of South Carolina](https://sc.edu)<br/>
 <br/>
 <br/>
-PhD in Biomedical Informatics, [University of Texas School of Biomedical Informatics](https://sbmi.uth.edu)<br/>
-MS in Psychology, [Soochow University](http://eng.suda.edu.cn)<br/>
-BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn)<br/>
+- PhD in Biomedical Informatics, [University of Texas School of Biomedical Informatics](https://sbmi.uth.edu)<br/>
+- MS in Psychology, [Soochow University](http://eng.suda.edu.cn)<br/>
+- BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn)<br/>
 
 ---
 ## Graduate Research Assistants
