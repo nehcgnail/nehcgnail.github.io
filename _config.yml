@@ -116,7 +116,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Faculty Profile Webpage"
+    - label: "Faculty Profile"
       icon: "fas fa-fw fa-link"
       url: "https://www.sc.edu/study/colleges_schools/public_health/faculty-staff/liang_chen.php"
     - label: "Twitter"
