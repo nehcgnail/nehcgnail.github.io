@@ -10,8 +10,8 @@ header:
 
 ![image-left](/assets/images/avatar_ChenLiang2.jpg){: .align-left}{:width="210px"}
 **Chen Liang, PhD**<br/>
-Chen is an Assistant Professor at [Department of Health Services Policy & Management](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/health_services_policy_and_management/index.php), [Arnold School of Public Health](https://www.sc.edu/study/colleges_schools/public_health/index.php), [University of South Carolina](https://sc.edu).<br/>
-<br/>
+Chen is an Assistant Professor at Department of Health Services Policy & Management, Arnold School of Public Health, University of South Carolina. His research has focused on medical informatics and public health informatics, with an emphasis on health data analytics, knowledge representation in biomedicine, and clincial decision support. This effort has extended to automatic detection and analysis of medical errors using large-scale patient safety event reports. His research interest was also intrigued by cognitive science, data science, and artificial intelligenc in medicine.<br/>
+Education
 - PhD in Biomedical Informatics, [University of Texas Health Science Center (UTHealth)](https://sbmi.uth.edu)<br/>
 - MS in Psychology, [Soochow University](http://eng.suda.edu.cn)<br/>
 - BE in Information Engineering, [Soochow University](http://eng.suda.edu.cn)<br/>
