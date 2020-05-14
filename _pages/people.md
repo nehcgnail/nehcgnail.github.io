@@ -36,5 +36,5 @@ Xiajie is a fifth-year Preventive Medicine major at the School of Public Health,
 ---
 ## Research Interns
 ![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="210px"}
-**Andrew Jordan Eidson**
+**Andrew Jordan Eidson**<br/>
 Andrew graduated from Clemson University with a degree in bioengineering, and he is currently an MII at the University of South Carolina School of Medicine. He is an avid Ultimate Frisbee player and wakeboarder during the summer, both of which he is very passionate about. As far as research is concerned, he is very interested in looking into the various mechanisms of drug interactions in vivo to determine how to minimize harmful interactions in future patients.<br/>
