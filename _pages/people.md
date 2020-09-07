@@ -32,6 +32,8 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 ![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="210px"}
 **Xiajie Zhou, BM**<br/>
 Xiajie is a graduate student at Nanjing Medical University. She was a visiting student at the University of South Carolina in the Spring of 2020. <br/>
+<br/>
+<br/>
 
 ![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="210px"}
 **Andrew Jordan Eidson**<br/>
