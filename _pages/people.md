@@ -28,13 +28,11 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 <br/>
 
 ---
-## Visiting Students
+## Alumni
 ![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="210px"}
-**Xiajie Zhou**<br/>
-Xiajie is a fifth-year Preventive Medicine major at the School of Public Health, Nanjing Medical University (NMU). As a recipient of the Outstanding Student Scholarship every year, she has been admitted to the graduate program at the Department of Epidemiology, NMU, with the exemption from taking the National Post-graduate Entrance Examination. Funded by the China Scholarship Council, she is studying at the University of South Carolina for Spring 2020. Her research interest is translational medicine, in particular, the use of DNA methylation in screening for breast cancer and the study of adverse drug reactions.<br/>
+**Xiajie Zhou, BM**<br/>
+Xiajie was a visiting student at the University of South Carolina in the Spring of 2020. <br/>
 
----
-## Research Interns
 ![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="210px"}
 **Andrew Jordan Eidson**<br/>
-Andrew graduated from Clemson University with a degree in bioengineering, and he is currently an MII at the University of South Carolina School of Medicine. He is an avid Ultimate Frisbee player and wakeboarder during the summer, both of which he is very passionate about. As far as research is concerned, he is very interested in looking into the various mechanisms of drug interactions in vivo to determine how to minimize harmful interactions in future patients.<br/>
+Andrew is a medical student at the University of South Carolina School of Medicine. He was a research intern in the summer of 2020.<br/>
