@@ -37,4 +37,4 @@ Xiajie is a graduate student at Nanjing Medical University. She was a visiting s
 
 ![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="210px"}
 **Andrew Jordan Eidson**<br/>
-Andrew is a medical student at the University of South Carolina School of Medicine. He was a research intern in the summer of 2020.<br/>
+Andrew is a medical student at University of South Carolina School of Medicine. He was a research intern in the summer of 2020.<br/>
