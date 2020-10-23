@@ -9,9 +9,8 @@ header:
 ---
 
 ## Overview
-Our earlier work focused on (1) knowledge representation of patient safety events using biomedical ontology and (2) automatic detection of critical information from patient safety events (e.g., error types, severity, and contributing factors) using clinical Natural Language Processing and machine learning. These studies were among the first that leveraged AI methods to analyze large-scale patient safety events to improve data interpretability and clinical workflow (e.g., root cause analysis, clinical protocol, communications). <br/>
+Our earlier work focused on (1) knowledge representation of patient safety events using biomedical ontology and (2) automatic detection of critical information from patient safety events (e.g., error types, severity, and contributing factors) using clinical Natural Language Processing and machine learning. These studies were among the first that leveraged AI methods to analyze large-scale patient safety events to improve data interpretability and clinical workflow. <br/>
 Current research is directed to integrating heterogeneous health data from multiple dimensions, medical knowledge representation, machine learning, and clinical Natural Language Processing with a focus on developing medical informatics tools for precise, timely, and interpretable screening, diagnosis, phenotyping, and clinical decision support. Much of the recent work was done with [the Big Data Health Science Center](https://bigdata.sc.edu) at the University of South Carolina.<br/>
----
 
 ## Selected Projects
 ### Harnessing cmedication-related harm events reported by consumers.
