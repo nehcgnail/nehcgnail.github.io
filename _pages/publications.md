@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 header:
-  image: /assets/images/header_publications.jpg
-  caption: "Maxcy Monument"
+  image: /assets/images/header_publications2.jpg
+  caption: "Thomas Cooper Library outlook"
 ---
 
 ### A Full List of Publications on
