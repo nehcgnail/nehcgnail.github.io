@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 header:
   image: /assets/images/header_publications2.jpg
-  caption: "Thomas Cooper Library outlook"
+  caption: "Outlook from Thomas Cooper Library"
 ---
 
 ### A Full List of Publications on
