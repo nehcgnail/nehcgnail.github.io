@@ -26,6 +26,10 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 <br/>
 <br/>
 <br/>
+## Visiting Students
+![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="210px"}
+**Manting Zhang**<br/>
+Manting is a graduate student at Nanjing Medical University. Her major is biostatistics. She is interested in exploring clinical Natural Language Processing and machine learning during her research internship in the Lab.<br/>
 
 ---
 ## Alumni
