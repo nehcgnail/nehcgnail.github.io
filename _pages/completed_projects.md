@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Completed Projects"
-permalink: /research/completed_projects/
+permalink: /completed_projects/
 author_profile: false
 header:
   image: /assets/images/header_research.jpg
