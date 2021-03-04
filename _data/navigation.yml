@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /home/
+    url: http://clianglab.com
   - title: "People"
     url: /people/  
   - title: "Research"
@@ -21,7 +21,7 @@ main:
 
 sidebar:
   - title: "Home"
-    url: /home/
+    url: http://clianglab.com
   - title: "People"
     url: /people/
   - title: "Research"
