@@ -1,19 +1,13 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Completed Projects"
+permalink: /Completed Projects/
 author_profile: false
 header:
   image: /assets/images/header_research.jpg
   caption: "McKissick Museum"
 ---
 
-## Overview
-Our early work focused on (1) knowledge representation of patient safety events using biomedical ontology and (2) automatic detection of critical information from patient safety events (e.g., error types, severity, and contributing factors) using clinical Natural Language Processing and machine learning. These studies are among the first that leveraged informatics methods for large-scale patient safety events to improve data interoperability and clinical workflow. <br/>
-<br/>
-Our current research is directed to integrating heterogeneous health data from multiple dimensions, medical knowledge representation, machine learning, and clinical Natural Language Processing to  be used for augmenting precise, timely, and interpretable screening, diagnosis, phenotyping, and clinical decision support. Much of the recent work was done with [the Big Data Health Science Center](https://bigdata.sc.edu) at the University of South Carolina.<br/>
-
-## Selected Projects
 ### Dissecting Patient Safety Events through Data Science
 Medical errors are the 3rd leading cause of death in the US. Patient Safety Event (PSE) reporting has been a national priority since the IOM report “To Err is Human” in 2000. However, electronically collected reports are poor in interpretability and there is an apparent gap in translating the report to actionable knowledge for safety improvement. We developed (1) a prototype upper-class ontology for encoding terminologies used in PSE, (2) a machine-learning based text mining pipeline for categorizing PSE by error types, severity levels, contributing factors, and other clinically valuable information, (3) theories, methods, and clinical implementation strategies for applying these informatics tools in real-world Root Cause Analysis (RCA) and clinical decision support.<br/>
 Selected Publications:<br/>
