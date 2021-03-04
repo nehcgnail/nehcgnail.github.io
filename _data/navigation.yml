@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: http://clianglab.com/home/
+    url: http://clianglab.com/
   - title: "Research"
     url: /research/
     children:
