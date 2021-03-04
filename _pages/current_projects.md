@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Projects"
-permalink: /current_projects/
+permalink: /research/current_projects/
 author_profile: false
 header:
   image: /assets/images/header_research.jpg

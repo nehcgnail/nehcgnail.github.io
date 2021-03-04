@@ -28,9 +28,9 @@ sidebar:
     url: /research/
     children:
       - title: "Current Projects"
-        url: /current_projects/
+        url: /research/current_projects/
       - title: "Completed Projects"
-        url: /completed_projects/
+        url: /research/completed_projects/
   - title: "Publications"
     url: /publications/
   - title: "Prospective Students"
