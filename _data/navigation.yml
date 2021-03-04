@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: clianglab.com
+  - title: "People"
+    url: /people/  
   - title: "Research"
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "People"
-    url: /people/
   - title: "Prospective Students"
     url: /prospective_students/
   # - title: "About"
@@ -22,6 +22,8 @@ main:
 sidebar:
   - title: "Home"
     url: http://clianglab.com/
+  - title: "People"
+    url: /people/
   - title: "Research"
     url: /research/
     children:
@@ -31,7 +33,5 @@ sidebar:
         url: /completed_projects/
   - title: "Publications"
     url: /publications/
-  - title: "People"
-    url: /people/
   - title: "Prospective Students"
     url: /prospective_students/
