@@ -13,6 +13,6 @@ Our early work focused on (1) knowledge representation of patient safety events 
 <br/>
 Current research is centered on multimodal health data integration, predictive modeling, and EHR-based data mining to be used for augmenting Clinical Decision Support (CDS), diagnosis, screening, comorbidity detection, prognosis prediction, and evidence-based intervention. Since 2020, our research was directed to the development of biomedical informatics methods and applications tailored for combating the COVID-19 pandemic. Much of the recent work was done with [the Big Data Health Science Center](https://bigdata.sc.edu) at the University of South Carolina.<br/>
 
-## [Current Projects](clianglab.com/current_projects)
-## [Completed Projects](clianglab.com/completed_projects)
+## [Current Projects](current_projects)
+## [Completed Projects](completed_projects)
 
