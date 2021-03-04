@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: ""
-author_profile: true
+permalink: /home/
+author_profile: false
 header:
   image: /assets/images/header_home.jpg
   caption: "The Horseshoe"
@@ -14,6 +15,7 @@ header:
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address practical questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and tools that lead to a better understanding of electronic health data.
 
 ### News
+- **[Grants]** We received $40k seed grant from Prisma Health for developing Deep Learning models to be used for EHR-based data mining and diagnosis.<br/>
 - **[Lab Members]** Tianchu was selected as  a [Junior Scholar (2020-2021) in the South Carolina SmartState Center for Health Care Quality](https://chq.sc.edu/people/junior-scholars-2020-2021-cohort/).<br/>
 - **[Lab]** We welcome Andrew Eidson joining the lab. Andrew is a medical student from the University of South Carolina School of Medicine. He will be working with us as a research intern in the Summer of 2020.<br/>
 - **[Media Coverage]** We incorporated Machine Learning into Root Cause Analysis (RCA) to facilitate semi-automated detection of health system vulnerabilities from massive Patient Safety Event (PSE) reports. [Our work](https://www.ncbi.nlm.nih.gov/pubmed/31864129) is reported by [Association of Schools & Programs of Public Health (ASPPH)](https://www.aspph.org/south-carolina-study-provides-systems-centered-analysis-of-patient-safety-events/).<br/>
