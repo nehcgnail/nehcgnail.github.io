@@ -4,11 +4,6 @@ main:
     url: http://clianglab.com/
   - title: "Research"
     url: /research/
-    children:
-      - title: "Current Projects"
-        url: /current_projects/
-      - title: "Completed Projects"
-        url: /completed_projects/
   - title: "Publications"
     url: /publications/
   - title: "People"
@@ -23,3 +18,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: "Home"
+    url: http://clianglab.com/
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Current Projects"
+        url: /current_projects/
+      - title: "Completed Projects"
+        url: /completed_projects/
+  - title: "Publications"
+    url: /publications/
+  - title: "People"
+    url: /people/
+  - title: "Prospective Students"
+    url: /prospective_students/
