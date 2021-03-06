@@ -11,7 +11,7 @@ header:
 {: .text-center}
 
 ### About
-Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address practical questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and tools that lead to a better understanding of electronic health data.
+Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address research questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and applications that lead to a better understanding of electronic health data.
 
 ### News
 - **[Grants]** We received $40k seed grants from Prisma Health for developing Deep Learning models to be used for EHR-based data mining and diagnosis. 03/2021<br/>
