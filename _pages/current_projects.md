@@ -13,7 +13,7 @@ TBA
 - Qiao, S., Li, Z., Liang, C., Li, X., & Rudisill, C. (under review). Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis. [full text](https://pubmed.ncbi.nlm.nih.gov/33532803/)
 
 ### Deep Learning Assisted Opioid Use Disorder Diagnosis Using EHR data
-Electronic Health Records (EHR) hold great promise in assisting providers to identify individuals with possible opioid use disorder (OUD), treatment referral, as well as for onsite buprenorphine initiation protocols that are highly effective in the field. We develop Deep Learning models to assist providers in OUD diagnosis by harnessing individuals’ chronological EHR.
+Electronic Health Records (EHR) hold great promise in assisting providers to identify individuals with possible opioid use disorder (OUD), treatment referral, as well as for onsite buprenorphine initiation protocols that are highly effective in the field. We develop Deep Learning models to assist providers in OUD diagnosis by harnessing individuals’ chronological EHR using clinical Natural Language Processing (NLP).
 Funding: Prisma Health
 
 ### Towards Personalized Discharge Summaries for Reducing Medication-related Harm
