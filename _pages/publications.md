@@ -15,6 +15,8 @@ header:
 - [ResearchGate](https://www.researchgate.net/profile/Chen_Liang32)<br/>
 
 ### Selected Publications:
+- Olatosi, B., Sun, X., Chen, S., Zhang, J., Liang, C., Weissman, S., & Li, X. (2021). Application of machine-learning techniques in classification of HIV medical care status for people living with HIV in South Carolina. AIDS (London, England), 35(Suppl 1), S19-S28. (full text)[https://journals.lww.com/aidsonline/Fulltext/2021/05011/Application_of_machine_learning_techniques_in.3.aspx]
+- Lyu, T., Qiao, S., Hair, N., Liang, C., & Li, X. (2021). Federal funding allocation on HIV/AIDS research in the United States (2008–2018): an exploratory study using Big Data. AIDS care, 1-7. [full text](https://www.tandfonline.com/doi/abs/10.1080/09540121.2021.1896664)
 - Lin, Y., Hong, Y. A., Henson, B. S., Stevenson, R. D., Hong, S., Lyu, T., & Liang, C. (2020). Assessing Patient Experience and Healthcare Quality of Dental Care Using Patient Online Reviews in the United States: Mixed Methods Study. Journal of Medical Internet Research, 22(7), e18652. [full text](https://www.jmir.org/2020/7/e18652/)
 - Liang, C., Zhou, S., Yao, B., Hood, D., & Gong, Y. (2020). Toward systems-centered analysis of patient safety events: Improving root cause analysis by optimized incident classification and information presentation. International Journal of Medical Informatics, 135, 104054. [full text](https://www.sciencedirect.com/science/article/pii/S1386505619308792)
 - Liang, C., Miao, Q., Kang, H., Vogelsmeier, A., Hilmas, T., Wang, J., & Gong, Y. (2019). Leveraging Patient Safety Research: Efforts Made Fifteen Years Since To Err Is Human. Studies in health technology and informatics, 264, 983-987. [full text](http://ebooks.iospress.nl/publication/52136)
@@ -26,4 +28,3 @@ header:
 - Liang, C., & Gong, Y. (2016). Knowledge representation in patient safety reporting: an ontological approach. Journal of Data and Information Science, 1(2), 75-91. [full text](https://content.sciendo.com/view/journals/jdis/1/2/article-p75.xml)
 - Liang, C., Sun, J., & Tao, C. (2016). Semantic Web Ontology and Data Integration: a Case Study in Aiding Psychiatric Drug Repurposing. AMIA Summits on Translational Science Proceedings, 2016, 132. [full text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001753/)
 - Liang, C., & Gong, Y. (2015, August). On Building an Ontological Knowledge Base for Managing Patient Safety Events. In MedInfo (pp. 202-206). [full text](http://ebooks.iospress.nl/publication/40197)
-
