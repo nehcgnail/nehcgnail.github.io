@@ -14,7 +14,7 @@ header:
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address research questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and applications that lead to a better understanding of electronic health data.
 
 ### News
-- **[Grants]** We received $40k seed grants from Prisma Health for developing Deep Learning models to be used for EHR-based data mining and diagnosis. 03/2021<br/>
+- **[Grants]** We received $40k seed grants from Prisma Health for developing Deep Learning models to be used for EHR-based data mining and diagnosis. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2021/prisma_seed_grants.php) 03/2021<br/>
 - **[Lab Members]** We welcome Manting Zhang, who is a biostatistics major graduate student in Nanjing Medical University and joined us as a research intern. 02/2021<br/>
 - **[Lab Members]** Tianchu was selected as  a [Junior Scholar (2020-2021) in the South Carolina SmartState Center for Health Care Quality](https://chq.sc.edu/people/junior-scholars-2020-2021-cohort/). 08/2020<br/>
 - **[Lab Members]** We welcome Andrew Eidson joining the lab. Andrew is a medical student from the University of South Carolina School of Medicine. He will be working with us as a research intern in the Summer of 2020. 06/2020<br/>
