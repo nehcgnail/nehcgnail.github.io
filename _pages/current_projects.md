@@ -10,6 +10,7 @@ header:
 
 ### COVID-19
 TBA
+- Deer, R. R., Rock, M. A., Vasilevsky, N., Carmody, L. C., Rando, H. M., Anzalone, A. J., ... & Robinson, P. N. (2021). Characterizing Long COVID: Deep Phenotype of a Complex Condition. medRxiv. [full text](https://europepmc.org/article/ppr/ppr363064)
 - Qiao, S., Li, Z., Liang, C., Li, X., & Rudisill, C. (under review). Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis. [full text](https://pubmed.ncbi.nlm.nih.gov/33532803/)
 
 ### Deep Learning Assisted Opioid Use Disorder Diagnosis Using EHR data
