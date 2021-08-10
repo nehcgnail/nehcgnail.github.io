@@ -9,7 +9,8 @@ header:
 ---
 
 ### A Collection of COVID-19 Research Findings
-- Deer, R. R., Rock, M. A., Vasilevsky, N., Carmody, L. C., Rando, H. M., Anzalone, A. J., ... & Robinson, P. N. (2021). Characterizing Long COVID: Deep Phenotype of a Complex Condition. medRxiv. [full text](https://europepmc.org/article/ppr/ppr363064)
+- Deer, R. R., Rock, M. A., Vasilevsky, N., Carmody, L. C., Rando, H. M., Anzalone, A. J.,  Callahan T. J., Bramante C. T., Chute C. G., Greene C. S., Gagnier J., Chu H., Koraishy F. M., Liang, C., ... & Robinson, P. N. (under review). Characterizing Long COVID: Deep Phenotype of a Complex Condition. medRxiv. [full text](https://europepmc.org/article/ppr/ppr363064)
+- Lyu, T., Hair, N., Yell, N., Li, Z., Qiao, S., Liang, C., & Li, X. (under review). Temporal Geospatial Analysis of COVID-19 Pre-infection Determinants of Risk in South Carolina. [full text](https://europepmc.org/article/ppr/ppr379598)
 - Qiao, S., Li, Z., Liang, C., Li, X., & Rudisill, C. (under review). Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis. [full text](https://pubmed.ncbi.nlm.nih.gov/33532803/)
 
 
