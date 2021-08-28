@@ -36,7 +36,7 @@ Angela is a high school research intern in the Summer of 2021 who is passionate 
 
 ---
 ## Alumni
-![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="210px"}
+![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="160px"}
 **Manting Zhang**<br/>
 Manting is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2021.<br/>
 <br/>
@@ -44,14 +44,15 @@ Manting is a graduate student at Nanjing Medical University. She was a visiting 
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="210px"}
+<br/>
+![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="160px"}
 **Andrew Jordan Eidson**<br/>
 Andrew is a medical student at University of South Carolina School of Medicine. He was a research intern in the summer of 2020.<br/>
 <br/>
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="210px"}
+![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="160px"}
 **Xiajie Zhou, BM**<br/>
 Xiajie is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2020. <br/>
 <br/>
