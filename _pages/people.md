@@ -32,11 +32,12 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 ## Underaduate Research Assistants
 **Dylan Johnson**<br/>
 <br/>
+<br/>
+<br/>
 
 ![image-left](/assets/images/avatar_ZachLewis.jpg){: .align-left}{:width="210px"}
 **Zach Lewis**<br/>
 Zach is an undergraduate sophomore in the Honors College. He is currently studying biomedical engineering with the hope to go into medical school in the future. He is born and raised in Denver, Colorado where he picked up the hobbies of skiing and golfing. <br/>
-<br/>
 <br/>
 <br/>
 <br/>
