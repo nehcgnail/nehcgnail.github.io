@@ -43,8 +43,6 @@ Zach is an undergraduate sophomore in the Honors College. He is currently studyi
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ---
 ## Visiting Students
