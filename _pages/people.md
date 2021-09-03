@@ -36,6 +36,7 @@ Dylan is freshman honors college student majoring in computer science. Academica
 <br/>
 <br/>
 <br/>
+<br/>
 
 ![image-left](/assets/images/avatar_ZachLewis.jpg){: .align-left}{:width="210px"}
 **Zach Lewis**<br/>
