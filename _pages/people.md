@@ -10,7 +10,7 @@ header:
 
 ![image-left](/assets/images/avatar_ChenLiang2.jpg){: .align-left}{:width="210px"}
 **Chen Liang, PhD**<br/>
-Chen's research has focused on biomedical informatics, including Electronic Health Recoreds (EHR), health data integration, medical knowledge representation, machine learning, and clinical Natural Language Processing to be used for clinical decision support, and EHR-based data mining and knowledge discovery. He has been intrigued by cognitive science, data science, and artificial intelligence in medicine.<br/>
+Chen's research has focused on medical informatics, including Electronic Health Recoreds (EHR), health data integration, medical knowledge representation, machine learning, and clinical Natural Language Processing to be used for clinical decision support, and EHR-based data mining and knowledge discovery. He has been intrigued by cognitive science, data science, and artificial intelligence in medicine.<br/>
 *Education*<br/>
 PhD in Biomedical Informatics, University of Texas Health Science Center (UTHealth)<br/>
 MS in Psychology, Soochow University<br/>
