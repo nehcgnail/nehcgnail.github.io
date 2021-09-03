@@ -58,7 +58,7 @@ Xiajie is a graduate student at Nanjing Medical University. She was a visiting s
 <br/>
 <br/>
 <br/>
-<br/>
+
 ![image-left](/assets/images/avatar_AndrewEidson.jpg){: .align-left}{:width="160px"}
 **Andrew Jordan Eidson**<br/>
 Andrew is a medical student at University of South Carolina School of Medicine. He was a research intern in the summer of 2020.<br/>
@@ -66,6 +66,7 @@ Andrew is a medical student at University of South Carolina School of Medicine. 
 <br/>
 <br/>
 <br/>
+
 ![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="160px"}
 **Manting Zhang**<br/>
 Manting is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2021.<br/>
