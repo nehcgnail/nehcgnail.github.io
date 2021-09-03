@@ -28,7 +28,22 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 <br/>
 <br/>
 
---- 
+---
+## Underaduate Research Assistants
+**Dylan Johnson**<br/>
+<br/>
+
+![image-left](/assets/images/avatar_ZachLewis.jpg){: .align-left}{:width="210px"}
+**Zach Lewis**<br/>
+Zach is an undergraduate sophomore in the Honors College. He is currently studying biomedical engineering with the hope to go into medical school in the future. He is born and raised in Denver, Colorado where he picked up the hobbies of skiing and golfing. <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
 ## Visiting Students
 **Angela Bai**<br/>
 Angela is a high school research intern in the Summer of 2021 who is passionate about biomedicine and medical informatics.<br/>
@@ -36,10 +51,9 @@ Angela is a high school research intern in the Summer of 2021 who is passionate 
 
 ---
 ## Alumni
-![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="160px"}
-**Manting Zhang**<br/>
-Manting is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2021.<br/>
-<br/>
+![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="160px"}
+**Xiajie Zhou, BM**<br/>
+Xiajie is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2020. <br/>
 <br/>
 <br/>
 <br/>
@@ -51,9 +65,10 @@ Andrew is a medical student at University of South Carolina School of Medicine. 
 <br/>
 <br/>
 <br/>
-![image-left](/assets/images/avatar_XiajieZhou.jpg){: .align-left}{:width="160px"}
-**Xiajie Zhou, BM**<br/>
-Xiajie is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2020. <br/>
+![image-left](/assets/images/avatar_MantingZhang.jpg){: .align-left}{:width="160px"}
+**Manting Zhang**<br/>
+Manting is a graduate student at Nanjing Medical University. She was a visiting student in the Spring of 2021.<br/>
+<br/>
 <br/>
 <br/>
 <br/>
