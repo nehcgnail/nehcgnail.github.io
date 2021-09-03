@@ -30,7 +30,9 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 
 ---
 ## Underaduate Research Assistants
+![image-left](/assets/images/avatar_DylanJohnson.jpg){: .align-left}{:width="210px"}
 **Dylan Johnson**<br/>
+Dylan is freshman honors college student majoring in computer science. Academically, he is interested in data and computational science. Outside of class, he enjoys mountain biking, swimming, and board games.
 <br/>
 <br/>
 <br/>
