@@ -8,7 +8,7 @@ header:
   caption: "City of Columbia skyline"
 ---
 
-**We are accepting PhD and master's students. Interested students are encouraged to send an email to Dr Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;) before applying to our doctoral programs.**
+**We are accepting PhD and master's students. Interested students are encouraged to send an email to Dr Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;) before applying to our graduate programs.**
 {: .notice--info}
 
 ## Openings
@@ -46,7 +46,7 @@ Application procedures:
 
 ### Funding Opportunities for Students<br/>
 Strong PhD applicants are typically provided with sufficient financial support for the first year at their admission. The stipends come from different sources as listed below. There are openings of Teaching and Research Assistantships on a regular basis, which will support students towards completing the PhD program. <br/>
-- *University-level support -* Presidential Fellowship is available for talented PhD applicants. The stipend is $32,000 over four years for doctoral fellows. [Find more information](https://www.sc.edu/study/colleges_schools/graduate_school/opportunities_support/scholarly_initiatives/presidential-fellowship/index.php). Qualified applicants should pay close attention to the deadlines for applications. At the University of South Carolina, scholarships are made available to our students. [Find more informatiuon](https://sc.edu/about/offices_and_divisions/financial_aid/scholarships/index.php).<br/>
-- *School-level support -* At Arnold School, the Arnold Fellowship ($10,000/year) is made available for outstanding students admitted to our PhD programs. In addition, there are a number of funded graduate assistantships, fellowships, and internships available on your way to pursuing a degree. [Find more information](https://www.sc.edu/study/colleges_schools/public_health/apply/graduate_applicants/finanancial_information/index.php).<br/>
+- *University-level support -* [Presidential Fellowship](https://www.sc.edu/study/colleges_schools/graduate_school/opportunities_support/scholarly_initiatives/presidential-fellowship/index.php) is available for talented PhD applicants. The stipend is $32,000 over four years for doctoral fellows. Qualified applicants should pay close attention to the deadlines of application. At the University of South Carolina, many other [scholarships](https://sc.edu/about/offices_and_divisions/financial_aid/scholarships/index.php) are made available to our students. <br/>
+- *School-level support -* At Arnold School, the Arnold Fellowship ($10,000/year) is made available for outstanding students admitted to our PhD programs. In addition, there are a number of [funded graduate assistantships, fellowships, and internships](https://www.sc.edu/study/colleges_schools/public_health/apply/graduate_applicants/finanancial_information/index.php) available on your way to pursuing a degree.<br/>
 - *Department-level support -* [The Department of Health Services Policy & Management](https://www.sc.edu/study/colleges_schools/public_health/study/areas_of_study/health_services_policy_and_management/) offers a number of scholarships to outstanding PhD applicants.<br/> There are also Teaching Assistantships available for PhD students. 
 - *Support from Research Centers -* Multiple research centers offer fellowship programs that fund PhD students, including South Carolina SmartState Centers.  
