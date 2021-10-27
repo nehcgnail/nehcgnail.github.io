@@ -8,32 +8,32 @@ header:
   caption: "City of Columbia skyline"
 ---
 
-**We are accepting PhD and master's students.**
+**We are accepting PhD and master's students. Interested students are encouraged to send an email to Dr Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;) before applying to our doctoral programs.**
 {: .notice--info}
 
 ## Openings
 
-Position: Graduate Research Assistant (expired; for reference only)<br/>
+Position: Graduate Research Assistant<br/>
 
-Job summary: This position is supported by funds from Dr. Chen Liang. The GRA will provide research support to projects on medical informatics and public health informatics. The GRA will assist in a wide range of research activities including study design, implementation, data analysis, scientific writing/publication/presentation. As part of Dr. Liang’s team, the GRA will work with faculty and students from the University of South Carolina and other institutes in collaboration. The GRA is required to attend lab meetings and expected to report research progress on a regular basis. This position requires an individual who has strong work and research ethics, is self-motivated and accountable, and can work both independently and as part of a team.<br/>
+Job summary: This position is supported by funds from Dr Chen Liang. The GRA will provide research support to projects on medical informatics and public health informatics. Research topics include clinical outcomes of COVID-19, HIV/AIDS, Electronic Health Records (EHR) based data mining and knowledge discovery. The GRA will assist in a wide range of research activities including study design, implementation, data analysis, manuscript writing. As part of Dr Liang’s team, the GRA will work with faculty and students from the University of South Carolina and other institutes in collaboration. The GRA is required to attend lab meetings and expected to report research progress on a regular basis. This position requires an individual who has strong work and research ethics, is self-motivated and accountable, and can work both independently and as part of a team.<br/>
 
 Basic qualifications:
 - Strong motivation.
-- Master's or Doctoral graduate students in good academic standing. 
+- Good academic standing. 
 - Working knowledge in any of these fields: health/biomedical informatics, computer science, information science, statistics, or other quantitative domains.
-- Basic understanding in any of these fields: health sciences, behavioral sciences, or social sciences.
+- Basic understanding in any of these fields: health sciences and behavioral sciences.
 - Good academic writing and oral communication in English.
 
 Preferred qualifications: 
 - Experience in public health, medicine, and other fields in health sciences.
-- Experience in at least one programing language (e.g., Python, R, Java, etc.).
+- Experience in at least one programing language (e.g., Python, R, Java).
 - Experience in any of these methods: health data analysis, machine learning, natural language processing, information retrieval, knowledge extraction, semantic web ontology, and statistical methods.
-- Evidenced research experience (e.g., previous research assistantships, publications, etc.).
+- Evidenced research experience (e.g., previous research assistantships, publications).
 
 Compensation & Benefits: Compensation is commensurate with qualification and experience. The position offers office space, computers, tuition benefits, and other benefits in accordance with regulations at the University and Arnold School of Public Health.
 
 Application procedures:
-- Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;).
+- Send (1) a letter of interest, (2) CV, (3) contact of references, and (4) a copy of representative publication (optional) to Dr Chen Liang (&#99;&#108;&#105;&#97;&#110;&#103;&#64;&#109;&#97;&#105;&#108;&#98;&#111;&#120;&#46;&#115;&#99;&#46;&#101;&#100;&#117;).
 - Include "RA application - your name" in the Subject.
 
 ---
