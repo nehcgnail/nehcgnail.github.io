@@ -27,13 +27,8 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 <br/>
 <br/>
 <br/>
+<br/>
 **Nadia Ghumman, MBBS**<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 ---
