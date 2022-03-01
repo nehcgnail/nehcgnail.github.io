@@ -72,7 +72,7 @@ Manting is a graduate student at Nanjing Medical University. She was a visiting 
 <br/>
 <br/>
 
-![image-left](/assets/images/avatar_DylanJohnson.jpg){: .align-left}{:width="210px"}
+![image-left](/assets/images/avatar_DylanJohnson.jpg){: .align-left}{:width="160px"}
 **Dylan Johnson**<br/>
 Dylan is an undergraduate student at department of computer science.<br/>
 <br/>
