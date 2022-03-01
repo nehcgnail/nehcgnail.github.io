@@ -9,8 +9,8 @@ header:
 ---
 
 ### A Collection of COVID-19 Research Findings
-- Deer, R. R., Rock, M. A., Vasilevsky, N., Carmody, L. C., Rando, H. M., Anzalone, A. J.,  Callahan T. J., Bramante C. T., Chute C. G., Greene C. S., Gagnier J., Chu H., Koraishy F. M., Liang, C., ... & Robinson, P. N. (under review). Characterizing Long COVID: Deep Phenotype of a Complex Condition. medRxiv. [full text](https://europepmc.org/article/ppr/ppr363064)
-- Lyu, T., Hair, N., Yell, N., Li, Z., Qiao, S., Liang, C., & Li, X. (under review). Temporal Geospatial Analysis of COVID-19 Pre-infection Determinants of Risk in South Carolina. [full text](https://europepmc.org/article/ppr/ppr379598)
+- Deer, R. R., Rock, M. A., Vasilevsky, N., Carmody, L. C., Rando, H. M., Anzalone, A. J., Callahan T. J., Bramante C.T., Chute C. G., Greene C. S., Gagnier J., Chu H., Koraishy F. M., Liang C.... & Robinson, P. N. (2021). Characterizing Long COVID: Deep Phenotype of a Complex Condition. EBioMedicine, 74, 103722. [full text](https://www.sciencedirect.com/science/article/pii/S2352396421005168)
+- Lyu, T., Hair, N., Yell, N., Li, Z., Qiao, S., Liang, C., & Li, X. (2021). Temporal Geospatial Analysis of COVID-19 Pre-Infection Determinants of Risk in South Carolina. International Journal of Environmental Research and Public Health, 18(18), 9673. [full text](https://www.mdpi.com/1660-4601/18/18/9673)
 - Qiao, S., Li, Z., Liang, C., Li, X., & Rudisill, C. (under review). Risk perception of COVID-19 and its socioeconomic correlates in the United States: A social media analysis. [full text](https://pubmed.ncbi.nlm.nih.gov/33532803/)
 
 
