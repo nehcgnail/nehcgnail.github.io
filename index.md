@@ -15,7 +15,7 @@ Welcome to the laboratory. We are located in Arnold School of Public Health, Uni
 
 ### News
 - **[Grants]** We areceived $20k in funding from Prisma Health to identify predictive factors of ART discontinuation in AIDS patients using EHR clinical notes. 03/2023<br/>
-- **[Lab Members]** Welcome to Nadia Ghumann, our Graduate Research Assistant. 03/2022<br/>
+- **[Lab Members]** Welcome to Dr. Nadia Ghumman, our Graduate Research Assistant. 03/2022<br/>
 - **[Lab Members]** Welcome to Dylan Johnson and Zach Lewis, our Undergraduate Research Assistants. 09/2021<br/>
 - **[Grants]** We and our collaborators collectively received $105k in research grants for developing Data Science and Informatics methods to analyze COVID-19 EHR and consumer/patient-reported data. 07/2021<br/>
 - **[Grants]** We received $40k seed grants from Prisma Health for developing Deep Learning models to be used for EHR-based data mining and diagnosis. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2021/prisma_seed_grants.php) 03/2021<br/>
