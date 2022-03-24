@@ -29,9 +29,17 @@ Tianchu is a PhD student at Arnold School of Public Health. <br/>
 <br/>
 <br/>
 <br/>
-**Nadia Ghumman, MBBS**<br/>
-<br/>
 
+![image-left](/assets/images/avatar_NadiaGhumman.jpg){: .align-left}{:width="210px"}
+**Nadia Ghumman, MBBS, CFMG Certified**<br/>
+Nadia is a licensed physician with Pakistan Medical Commission. Currently, pursuing Executive MHA at Arnold School of Public Health.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 ## Visiting Students
