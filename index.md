@@ -14,7 +14,7 @@ header:
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address research questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and applications that lead to a better understanding of electronic health data.
 
 ### News
-- **[Grants]** We are received an R21 grant (R21AI170171) from NIH/NIAID entiltled 'Curating a Knowledge Base for Individuals with Coinfection of HIV and SARS-CoV-2: EHR-based Data Mining'. Total cost of the project is $408k. 07/2022<br/>
+- **[Grants]** We received an R21 (R21AI170171) from NIH/NIAID entiltled 'Curating a Knowledge Base for Individuals with Coinfection of HIV and SARS-CoV-2: EHR-based Data Mining'. Total cost of the project is $408k. 07/2022<br/>
 - **[Lab Members]** Welcome to Dr. Nadia Ghumman, our Graduate Research Assistant. 03/2022<br/>
 - **[Grants]** We areceived $20k in funding from Prisma Health to identify predictive factors of ART discontinuation in AIDS patients using EHR clinical notes. 03/2022<br/>
 - **[Lab Members]** Welcome to Dr. Nadia Ghumman, our Graduate Research Assistant. 03/2022<br/>
