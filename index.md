@@ -13,7 +13,7 @@ header:
 ### About
 Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address research questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and applications that lead to a better understanding of electronic health data.
 
-### [We have funded RA openings for PhD and master's students](prospectie_students)
+### [We have funded RA openings for PhD and master's students](http://clianglab.com/prospective_students/)
 
 ### News
 - **[Grants]** We received an R21 (R21AI170171) from NIH/NIAID entiltled 'Curating a Knowledge Base for Individuals with Coinfection of HIV and SARS-CoV-2: EHR-based Data Mining'. Total cost of the project is $408k. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2022/hiv_covid19_coinfection_grant_liang.php#.Yv-jIS-B3rV). 07/2022<br/>
