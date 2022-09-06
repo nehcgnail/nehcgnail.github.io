@@ -43,7 +43,7 @@ Nadia is a licensed physician with Pakistan Medical Commission. Currently, she i
 
 ![image-left](/assets/images/avatar_YuanzhenYue.jpg){: .align-left}{:width="210px"}
 **Yuanzhen Yue**<br/>
-Yuanzhen is a doctoral student from the Department of Epidemiology and Biostatistics, majoring in Biostatistics. His research interests focus on adaptive design in clinical trials, Bayesian models, and machine learning.
+Yuanzhen is a PhD student from the Department of Epidemiology and Biostatistics, majoring in Biostatistics. His research interests focus on adaptive design in clinical trials, Bayesian models, and machine learning.
 <br/>
 <br/>
 <br/>
