@@ -14,7 +14,7 @@ Chen's research has focused on medical informatics, including Electronic Health 
 *Education*<br/>
 PhD in Biomedical Informatics, University of Texas Health Science Center (UTHealth)<br/>
 MS in Psychology, Soochow University<br/>
-BE in Information Engineering, Soochow University<br/>
+BE in Electrical and Information Engineering, Soochow University<br/>
 [Curriculum Vitae](https://www.dropbox.com/s/k9glpjgyv3298yb/CV%20Chen%20Liang.pdf?dl=0) 
 
 ---
