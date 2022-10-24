@@ -21,7 +21,7 @@ BE in Electrical and Information Engineering, Soochow University<br/>
 ## Graduate Research Assistants
 ![image-left](/assets/images/avatar_TianchuLyu.jpg){: .align-left}{:width="210px"}
 **Tianchu Lyu**<br/>
-Tianchu is a PhD student at Arnold School of Public Health. <br/>
+Tianchu is a PhD student at Arnold School of Public Health. [Curriculum Vitae](https://www.dropbox.com/s/c1tmy61zkplr2wa/CV_TianchuLyu_10242022.pdf?dl=0)<br/>
 <br/>
 <br/>
 <br/>
