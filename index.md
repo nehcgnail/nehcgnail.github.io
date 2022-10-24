@@ -16,7 +16,7 @@ Welcome to the laboratory. We are located in Arnold School of Public Health, Uni
 ### [We have funded RA openings for PhD and master's students](http://clianglab.com/prospective_students/)
 
 ### News
-- **[Grants]** We received an R21 (R21AI169139) entitled 'Informatics Approach to Identification and Deep Phenotyping of PASC Cases'. Total cost of the project is $407k. 09/2022<br/>
+- **[Grants]** We received an R21 (R21AI169139) entitled 'Informatics Approach to Identification and Deep Phenotyping of PASC Cases'. Total cost of the project is $407k. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2022/long_covid_grant_liang.php#.YzJjeC-B3rU). 09/2022<br/>
 - **[Lab Members]** Welcome to Yuanzhen Yue, our Graduate Research Assistant and doctoral student of biostatistics. 09/2022<br/>
 - **[Grants]** We received an R21 (R21AI170171) from NIH/NIAID entiltled 'Curating a Knowledge Base for Individuals with Coinfection of HIV and SARS-CoV-2: EHR-based Data Mining'. Total cost of the project is $408k. See [our story](https://www.sc.edu/study/colleges_schools/public_health/about/news/2022/hiv_covid19_coinfection_grant_liang.php#.Yv-jIS-B3rV). 07/2022<br/>
 - **[Lab Members]** Welcome to Dr. Nadia Ghumman, our Graduate Research Assistant. 03/2022<br/>
