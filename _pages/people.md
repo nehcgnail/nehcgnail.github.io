@@ -9,7 +9,7 @@ header:
 ---
 
 ![image-left](/assets/images/avatar_ChenLiang2.jpg){: .align-left}{:width="210px"}
-**Chen Liang, PhD**<br/>
+**Chen Liang, PhD, FAMIA**<br/>
 Chen's research has focused on medical informatics, including Electronic Health Records (EHR), multi-modal health data integration, medical knowledge representation, machine learning, and clinical Natural Language Processing to be used for clinical decision support,  EHR-based phenotyping and data mining, and clinical implementation. He has been intrigued by cognitive science, data science, and artificial intelligence in medicine.<br/>
 *Education*<br/>
 PhD in Biomedical Informatics, University of Texas Health Science Center (UTHealth)<br/>
