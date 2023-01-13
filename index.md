@@ -11,7 +11,7 @@ header:
 {: .text-center}
 
 ### About
-Welcome to the laboratory. We are located in Arnold School of Public Health, Universithy of South Carolina. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from information science and cognitive science to address research questions in medicine, public health, and health services. Over the last few years, we have been developing informatics methods and applications that lead to a better understanding of electronic health data.
+Welcome to the laboratory. We are located in University of South Carolina Arnold School of Public Health. We are dedicated to seeking ways to a safe and intelligent health system. We apply principles from computer science and cognitive science to address research questions in clinical and translational medicine, and health care systems. Over the last few years, we have been developing biomedical informatics methods and applications that lead to a better understanding of electronic health data and Artificial Intelligence in medicine.
 
 ### [We have funded RA openings for PhD and master's students](http://clianglab.com/prospective_students/)
 
