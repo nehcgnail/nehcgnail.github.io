@@ -55,7 +55,7 @@ Yuanzhen is a doctoral student from the Department of Epidemiology and Biostatis
 
 ![image-left](/assets/images/avatar_JialeiHe.jpg){: .align-left}{:width="210px"}
 **Jialei He**<br/>
-Jialei is a master's student from the department of Computer Science College of Engineering and Computing. [Curriculum Vitae](https://www.dropbox.com/s/ldg8senadm3zhn7/Resume%20JialeiHe.pdf?dl=0)<br/>
+Jialei is a master's student from department of Computer Science College of Engineering and Computing. [Curriculum Vitae](https://www.dropbox.com/s/ldg8senadm3zhn7/Resume%20JialeiHe.pdf?dl=0)<br/>
 <br/>
 <br/>
 <br/>
