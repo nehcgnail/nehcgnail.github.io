@@ -7,7 +7,7 @@ header:
   image: /assets/images/header_people.jpg
   caption: "The Horseshoe"
 ---
-
+## Principal Investigator
 ![image-left](/assets/images/avatar_ChenLiang2.jpg){: .align-left}{:width="210px"}
 **Chen Liang, PhD, FAMIA**<br/>
 Chen's research has focused on medical informatics, including Electronic Health Records (EHR), multi-modal health data integration, medical knowledge representation, machine learning, and clinical Natural Language Processing to be used for clinical decision support,  EHR-based phenotyping and data mining, and clinical implementation. He has been intrigued by cognitive science, data science, and artificial intelligence in medicine.<br/>
@@ -21,7 +21,7 @@ BE in Electrical and Information Engineering, Soochow University<br/>
 ## Graduate Research Assistants
 ![image-left](/assets/images/avatar_TianchuLyu.jpg){: .align-left}{:width="210px"}
 **Tianchu Lyu**<br/>
-Tianchu is a PhD student at Arnold School of Public Health. [Curriculum Vitae](https://www.dropbox.com/s/c1tmy61zkplr2wa/CV_TianchuLyu_10242022.pdf?dl=0)<br/>
+Tianchu is a doctoral student at Arnold School of Public Health. [Curriculum Vitae](https://www.dropbox.com/s/c1tmy61zkplr2wa/CV_TianchuLyu_10242022.pdf?dl=0)<br/>
 <br/>
 <br/>
 <br/>
@@ -44,7 +44,7 @@ Nadia is a licensed physician with Pakistan Medical Commission. Currently, she i
 
 ![image-left](/assets/images/avatar_YuanzhenYue.jpg){: .align-left}{:width="210px"}
 **Yuanzhen Yue**<br/>
-Yuanzhen is a PhD student from the Department of Epidemiology and Biostatistics, majoring in Biostatistics. His research interests focus on adaptive design in clinical trials, Bayesian models, and machine learning.
+Yuanzhen is a doctoral student from the Department of Epidemiology and Biostatistics, majoring in Biostatistics. His research interests focus on adaptive design in clinical trials, Bayesian models, and machine learning.
 <br/>
 <br/>
 <br/>
@@ -53,6 +53,16 @@ Yuanzhen is a PhD student from the Department of Epidemiology and Biostatistics,
 <br/>
 <br/>
 
+![image-left](/assets/images/avatar_JialeiHe.jpg){: .align-left}{:width="210px"}
+**Jialei He**<br/>
+Jialei is a master's student from the department of Computer Science College of Engineering and Computing. [Curriculum Vitae](https://www.dropbox.com/s/ldg8senadm3zhn7/Resume%20JialeiHe.pdf?dl=0)<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 ## Visiting Students
